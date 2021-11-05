@@ -1,0 +1,26 @@
+,company
+alternate_registration_entities,[]
+alternative_names,[]
+company_number,P08000101064
+company_type,Domestic for Profit
+corporate_groupings,[]
+created_at,2012-03-10T14:17:53+00:00
+current_status,Inactive
+data,"{'most_recent': [{'datum': {'id': 13210664, 'title': 'Head Office Address', 'data_type': 'CompanyAddress', 'description': '12916 SW 133RD CT SUITE A, MIAMI, FL, 33186', 'opencorporates_url': 'https://opencorporates.com/data/13210664'}}, {'datum': {'id': 13210665, 'title': 'Mailing Address', 'data_type': 'CompanyAddress', 'description': '12916 SW 133RD CT SUITE A, MIAMI, FL, 33186', 'opencorporates_url': 'https://opencorporates.com/data/13210665'}}], 'total_count': 2, 'url': 'https://opencorporates.com/companies/us_fl/P08000101064/data'}"
+filings,[]
+identifiers,[]
+inactive,True
+incorporation_date,2008-11-12
+industry_codes,[]
+jurisdiction_code,us_fl
+name,!HOSANNA! HEALTH CARE SERVICE INC.
+officers,"[{'officer': {'id': 16662031, 'name': 'NOIDA R GUERRA', 'position': 'president', 'uid': None, 'start_date': None, 'end_date': None, 'opencorporates_url': 'https://opencorporates.com/officers/16662031', 'occupation': None, 'inactive': True, 'current_status': None, 'address': '12916 SW 133RD CT SUITE A, MIAMI, FL 33186', 'nationality': None, 'date_of_birth': None}}, {'officer': {'id': 16662032, 'name': 'NOIDA R GUERRA', 'position': 'agent', 'uid': None, 'start_date': None, 'end_date': None, 'opencorporates_url': 'https://opencorporates.com/officers/16662032', 'occupation': None, 'inactive': True, 'current_status': None, 'address': '12916 SW 133RD CT SUITE A, MIAMI, FL 33186', 'nationality': None, 'date_of_birth': None}}]"
+opencorporates_url,https://opencorporates.com/companies/us_fl/P08000101064
+previous_names,[]
+previous_registration_entities,[]
+retrieved_at,2021-10-01T00:00:00+00:00
+source,"{'publisher': 'Florida Department of State Division of Corporations', 'url': 'http://www.sunbiz.org', 'retrieved_at': '2021-10-01T00:00:00+00:00'}"
+subsequent_registration_entities,[]
+trademark_registrations,[]
+ultimate_beneficial_owners,[]
+updated_at,2021-10-22T01:50:44+00:00
